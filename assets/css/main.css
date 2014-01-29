@@ -89,7 +89,7 @@ a:after {
 }
 
 .navbar-default {
-	background-color: #3498db;
+	background-color: #445371;
 	border-color: transparent;
 }
 
@@ -103,7 +103,12 @@ a:after {
 }
 
 /* Helpers */
-
+.full-width{
+    width: 100%;
+}
+.bg-brown{
+    background-color: #f6f6ef;
+}
 .mt {
 	margin-top: 40px;
 	margin-bottom: 40px;
@@ -124,7 +129,7 @@ i {
 /* HeaderWrap */
 #headerwrap {
 	/* background: url(../img/bg01.jpg) no-repeat center top; */
-	background-color: #3498db;
+	background-color: #445371;
 	margin-top: -20px;
 	padding-top:200px;
 	background-attachment: relative;
